@@ -1,6 +1,6 @@
 # russel
 
-An incremental, scheme-targetted successor to (rusl)[https://github.com/samrat/rusl].
+An incremental, scheme-targetted successor to [rusl](https://github.com/samrat/rusl).
 
 # execute
 
